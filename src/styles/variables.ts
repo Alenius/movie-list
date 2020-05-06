@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-
+// https://colorpalettes.net/color-palette-4214/
 export const colors = {
   brand: '#663399',
   lilac: '#9d7cbf',
@@ -9,7 +9,12 @@ export const colors = {
   ui: {
     bright: '#e0d6eb',
     light: '#f5f3f7',
-    whisper: '#fbfafc'
+    whisper: '#fbfafc',
+    dark: '#00243f',
+    lessDark: '#264b77',
+    accent: '#b67929',
+    gray: '#a3acb1',
+    matte: '#3c5b74'
   },
   code: '#fcf6f0',
   gray: {
