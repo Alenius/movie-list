@@ -9,8 +9,8 @@ import Container from './Container'
 const StyledHeader = styled.header`
   height: ${heights.header}px;
   padding: 0 ${dimensions.containerPadding}rem;
-  background-color: ${colors.brand};
-  color: ${transparentize(0.5, colors.white)};
+  background-color: ${colors.ui.lessDark};
+  color: ${colors.ui.accent};
 `
 
 const HeaderInner = styled(Container)`
@@ -21,13 +21,14 @@ const HeaderInner = styled(Container)`
 `
 
 const HomepageLink = styled(Link)`
-  color: ${colors.white};
-  font-size: 1.5rem;
+  color: ${colors.ui.accent};
+  font-size: 2rem;
   font-weight: 600;
 
   &:hover,
   &:focus {
     text-decoration: none;
+    color: ${colors.ui.gray};
   }
 `
 
