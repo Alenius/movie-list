@@ -27,6 +27,7 @@ const MovieRandomizer = () => {
       </form>
       <img src={response?.Poster} alt="movie-poster" />
       <p>{response ? response?.Title : fetchError}</p>
+      <p>{response && response?.imdbRating}</p>
     </div>
   )
 }
