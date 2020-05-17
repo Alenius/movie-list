@@ -1,0 +1,9 @@
+.button {
+  background-color: #264b77;
+  border-color: #b67929;
+  color: whitesmoke;
+  height: 2rem;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+}

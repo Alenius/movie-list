@@ -1,0 +1,1146 @@
+{
+  "movieArray": [
+    {
+      "movieTitle": "The Shawshank Redemption",
+      "yearOfRelease": "(1994)",
+      "movieRating": "9.2"
+    },
+    {
+      "movieTitle": "The Godfather",
+      "yearOfRelease": "(1972)",
+      "movieRating": "9.1"
+    },
+    {
+      "movieTitle": "The Godfather: Part II",
+      "yearOfRelease": "(1974)",
+      "movieRating": "9.0"
+    },
+    {
+      "movieTitle": "The Dark Knight",
+      "yearOfRelease": "(2008)",
+      "movieRating": "9.0"
+    },
+    {
+      "movieTitle": "12 Angry Men",
+      "yearOfRelease": "(1957)",
+      "movieRating": "8.9"
+    },
+    {
+      "movieTitle": "Schindler's List",
+      "yearOfRelease": "(1993)",
+      "movieRating": "8.9"
+    },
+    {
+      "movieTitle": "The Lord of the Rings: The Return of the King",
+      "yearOfRelease": "(2003)",
+      "movieRating": "8.9"
+    },
+    {
+      "movieTitle": "Pulp Fiction",
+      "yearOfRelease": "(1994)",
+      "movieRating": "8.8"
+    },
+    {
+      "movieTitle": "The Good, the Bad and the Ugly",
+      "yearOfRelease": "(1966)",
+      "movieRating": "8.8"
+    },
+    {
+      "movieTitle": "The Lord of the Rings: The Fellowship of the Ring",
+      "yearOfRelease": "(2001)",
+      "movieRating": "8.8"
+    },
+    {
+      "movieTitle": "Fight Club",
+      "yearOfRelease": "(1999)",
+      "movieRating": "8.8"
+    },
+    {
+      "movieTitle": "Forrest Gump",
+      "yearOfRelease": "(1994)",
+      "movieRating": "8.8"
+    },
+    {
+      "movieTitle": "Inception",
+      "yearOfRelease": "(2010)",
+      "movieRating": "8.7"
+    },
+    {
+      "movieTitle": "Star Wars: Episode V - The Empire Strikes Back",
+      "yearOfRelease": "(1980)",
+      "movieRating": "8.7"
+    },
+    {
+      "movieTitle": "The Lord of the Rings: The Two Towers",
+      "yearOfRelease": "(2002)",
+      "movieRating": "8.7"
+    },
+    {
+      "movieTitle": "The Matrix",
+      "yearOfRelease": "(1999)",
+      "movieRating": "8.6"
+    },
+    {
+      "movieTitle": "Goodfellas",
+      "yearOfRelease": "(1990)",
+      "movieRating": "8.6"
+    },
+    {
+      "movieTitle": "One Flew Over the Cuckoo's Nest",
+      "yearOfRelease": "(1975)",
+      "movieRating": "8.6"
+    },
+    {
+      "movieTitle": "Seven Samurai",
+      "yearOfRelease": "(1954)",
+      "movieRating": "8.6"
+    },
+    { "movieTitle": "Se7en", "yearOfRelease": "(1995)", "movieRating": "8.6" },
+    {
+      "movieTitle": "Life Is Beautiful",
+      "yearOfRelease": "(1997)",
+      "movieRating": "8.6"
+    },
+    {
+      "movieTitle": "City of God",
+      "yearOfRelease": "(2002)",
+      "movieRating": "8.6"
+    },
+    {
+      "movieTitle": "The Silence of the Lambs",
+      "yearOfRelease": "(1991)",
+      "movieRating": "8.6"
+    },
+    {
+      "movieTitle": "It's a Wonderful Life",
+      "yearOfRelease": "(1946)",
+      "movieRating": "8.6"
+    },
+    {
+      "movieTitle": "Star Wars: Episode IV - A New Hope",
+      "yearOfRelease": "(1977)",
+      "movieRating": "8.6"
+    },
+    {
+      "movieTitle": "Parasite",
+      "yearOfRelease": "(2019)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "Saving Private Ryan",
+      "yearOfRelease": "(1998)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "Spirited Away",
+      "yearOfRelease": "(2001)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "The Green Mile",
+      "yearOfRelease": "(1999)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "Interstellar",
+      "yearOfRelease": "(2014)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "Léon: The Professional",
+      "yearOfRelease": "(1994)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "The Usual Suspects",
+      "yearOfRelease": "(1995)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "Harakiri",
+      "yearOfRelease": "(1962)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "The Lion King",
+      "yearOfRelease": "(1994)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "American History X",
+      "yearOfRelease": "(1998)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "The Pianist",
+      "yearOfRelease": "(2002)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "Back to the Future",
+      "yearOfRelease": "(1985)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "Terminator 2: Judgment Day",
+      "yearOfRelease": "(1991)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "Modern Times",
+      "yearOfRelease": "(1936)",
+      "movieRating": "8.5"
+    },
+    { "movieTitle": "Psycho", "yearOfRelease": "(1960)", "movieRating": "8.5" },
+    {
+      "movieTitle": "Gladiator",
+      "yearOfRelease": "(2000)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "City Lights",
+      "yearOfRelease": "(1931)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "The Departed",
+      "yearOfRelease": "(2006)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "The Intouchables",
+      "yearOfRelease": "(2011)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "Whiplash",
+      "yearOfRelease": "(2014)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "The Prestige",
+      "yearOfRelease": "(2006)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "Once Upon a Time in the West",
+      "yearOfRelease": "(1968)",
+      "movieRating": "8.5"
+    },
+    {
+      "movieTitle": "Grave of the Fireflies",
+      "yearOfRelease": "(1988)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "Casablanca",
+      "yearOfRelease": "(1942)",
+      "movieRating": "8.4"
+    },
+    { "movieTitle": "Joker", "yearOfRelease": "(2019)", "movieRating": "8.4" },
+    {
+      "movieTitle": "Rear Window",
+      "yearOfRelease": "(1954)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "Cinema Paradiso",
+      "yearOfRelease": "(1988)",
+      "movieRating": "8.4"
+    },
+    { "movieTitle": "Alien", "yearOfRelease": "(1979)", "movieRating": "8.4" },
+    {
+      "movieTitle": "Apocalypse Now",
+      "yearOfRelease": "(1979)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "Memento",
+      "yearOfRelease": "(2000)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "Raiders of the Lost Ark",
+      "yearOfRelease": "(1981)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "The Great Dictator",
+      "yearOfRelease": "(1940)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "The Lives of Others",
+      "yearOfRelease": "(2006)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "Django Unchained",
+      "yearOfRelease": "(2012)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "Paths of Glory",
+      "yearOfRelease": "(1957)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "The Shining",
+      "yearOfRelease": "(1980)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "Avengers: Infinity War",
+      "yearOfRelease": "(2018)",
+      "movieRating": "8.4"
+    },
+    { "movieTitle": "WALL·E", "yearOfRelease": "(2008)", "movieRating": "8.4" },
+    {
+      "movieTitle": "Sunset Blvd.",
+      "yearOfRelease": "(1950)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "Spider-Man: Into the Spider-Verse",
+      "yearOfRelease": "(2018)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "Princess Mononoke",
+      "yearOfRelease": "(1997)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "Dr. Strangelove",
+      "yearOfRelease": "(1964)",
+      "movieRating": "8.4"
+    },
+    { "movieTitle": "Anand", "yearOfRelease": "(1971)", "movieRating": "8.4" },
+    { "movieTitle": "Oldboy", "yearOfRelease": "(2003)", "movieRating": "8.4" },
+    {
+      "movieTitle": "Witness for the Prosecution",
+      "yearOfRelease": "(1957)",
+      "movieRating": "8.4"
+    },
+    {
+      "movieTitle": "Avengers: Endgame",
+      "yearOfRelease": "(2019)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "The Dark Knight Rises",
+      "yearOfRelease": "(2012)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Once Upon a Time in America",
+      "yearOfRelease": "(1984)",
+      "movieRating": "8.3"
+    },
+    { "movieTitle": "Aliens", "yearOfRelease": "(1986)", "movieRating": "8.3" },
+    {
+      "movieTitle": "Your Name.",
+      "yearOfRelease": "(2016)",
+      "movieRating": "8.3"
+    },
+    { "movieTitle": "Coco", "yearOfRelease": "(2017)", "movieRating": "8.3" },
+    {
+      "movieTitle": "American Beauty",
+      "yearOfRelease": "(1999)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Braveheart",
+      "yearOfRelease": "(1995)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Das Boot",
+      "yearOfRelease": "(1981)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "3 Idiots",
+      "yearOfRelease": "(2009)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Toy Story",
+      "yearOfRelease": "(1995)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "High and Low",
+      "yearOfRelease": "(1963)",
+      "movieRating": "8.3"
+    },
+    { "movieTitle": "1917", "yearOfRelease": "(2019)", "movieRating": "8.3" },
+    {
+      "movieTitle": "Like Stars on Earth",
+      "yearOfRelease": "(2007)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Star Wars: Episode VI - Return of the Jedi",
+      "yearOfRelease": "(1983)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Amadeus",
+      "yearOfRelease": "(1984)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Reservoir Dogs",
+      "yearOfRelease": "(1992)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Inglourious Basterds",
+      "yearOfRelease": "(2009)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Good Will Hunting",
+      "yearOfRelease": "(1997)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "2001: A Space Odyssey",
+      "yearOfRelease": "(1968)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Vertigo",
+      "yearOfRelease": "(1958)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Requiem for a Dream",
+      "yearOfRelease": "(2000)",
+      "movieRating": "8.3"
+    },
+    { "movieTitle": "M", "yearOfRelease": "(1931)", "movieRating": "8.3" },
+    { "movieTitle": "Dangal", "yearOfRelease": "(2016)", "movieRating": "8.3" },
+    {
+      "movieTitle": "Eternal Sunshine of the Spotless Mind",
+      "yearOfRelease": "(2004)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Citizen Kane",
+      "yearOfRelease": "(1941)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "The Hunt",
+      "yearOfRelease": "(2012)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Capernaum",
+      "yearOfRelease": "(2018)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "Full Metal Jacket",
+      "yearOfRelease": "(1987)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "North by Northwest",
+      "yearOfRelease": "(1959)",
+      "movieRating": "8.3"
+    },
+    {
+      "movieTitle": "A Clockwork Orange",
+      "yearOfRelease": "(1971)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Bicycle Thieves",
+      "yearOfRelease": "(1948)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "The Kid",
+      "yearOfRelease": "(1921)",
+      "movieRating": "8.2"
+    },
+    { "movieTitle": "Snatch", "yearOfRelease": "(2000)", "movieRating": "8.2" },
+    {
+      "movieTitle": "Singin' in the Rain",
+      "yearOfRelease": "(1952)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Scarface",
+      "yearOfRelease": "(1983)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Taxi Driver",
+      "yearOfRelease": "(1976)",
+      "movieRating": "8.2"
+    },
+    { "movieTitle": "Amélie", "yearOfRelease": "(2001)", "movieRating": "8.2" },
+    {
+      "movieTitle": "Lawrence of Arabia",
+      "yearOfRelease": "(1962)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "The Sting",
+      "yearOfRelease": "(1973)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Toy Story 3",
+      "yearOfRelease": "(2010)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Metropolis",
+      "yearOfRelease": "(1927)",
+      "movieRating": "8.2"
+    },
+    { "movieTitle": "Ikiru", "yearOfRelease": "(1952)", "movieRating": "8.2" },
+    {
+      "movieTitle": "For a Few Dollars More",
+      "yearOfRelease": "(1965)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "A Separation",
+      "yearOfRelease": "(2011)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Double Indemnity",
+      "yearOfRelease": "(1944)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "The Apartment",
+      "yearOfRelease": "(1960)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Incendies",
+      "yearOfRelease": "(2010)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "To Kill a Mockingbird",
+      "yearOfRelease": "(1962)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Indiana Jones and the Last Crusade",
+      "yearOfRelease": "(1989)",
+      "movieRating": "8.2"
+    },
+    { "movieTitle": "Up", "yearOfRelease": "(2009)", "movieRating": "8.2" },
+    {
+      "movieTitle": "L.A. Confidential",
+      "yearOfRelease": "(1997)",
+      "movieRating": "8.2"
+    },
+    { "movieTitle": "Heat", "yearOfRelease": "(1995)", "movieRating": "8.2" },
+    {
+      "movieTitle": "Monty Python and the Holy Grail",
+      "yearOfRelease": "(1975)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Die Hard",
+      "yearOfRelease": "(1988)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Rashomon",
+      "yearOfRelease": "(1950)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Yojimbo",
+      "yearOfRelease": "(1961)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Batman Begins",
+      "yearOfRelease": "(2005)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Come and See",
+      "yearOfRelease": "(1985)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Green Book",
+      "yearOfRelease": "(2018)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Children of Heaven",
+      "yearOfRelease": "(1997)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Downfall",
+      "yearOfRelease": "(2004)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Unforgiven",
+      "yearOfRelease": "(1992)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Some Like It Hot",
+      "yearOfRelease": "(1959)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Howl's Moving Castle",
+      "yearOfRelease": "(2004)",
+      "movieRating": "8.2"
+    },
+    { "movieTitle": "Ran", "yearOfRelease": "(1985)", "movieRating": "8.2" },
+    {
+      "movieTitle": "The Great Escape",
+      "yearOfRelease": "(1963)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "All About Eve",
+      "yearOfRelease": "(1950)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "A Beautiful Mind",
+      "yearOfRelease": "(2001)",
+      "movieRating": "8.2"
+    },
+    { "movieTitle": "Casino", "yearOfRelease": "(1995)", "movieRating": "8.2" },
+    {
+      "movieTitle": "Pan's Labyrinth",
+      "yearOfRelease": "(2006)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "The Secret in Their Eyes",
+      "yearOfRelease": "(2009)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "My Neighbor Totoro",
+      "yearOfRelease": "(1988)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "The Wolf of Wall Street",
+      "yearOfRelease": "(2013)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Lock, Stock and Two Smoking Barrels",
+      "yearOfRelease": "(1998)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "Raging Bull",
+      "yearOfRelease": "(1980)",
+      "movieRating": "8.2"
+    },
+    {
+      "movieTitle": "The Treasure of the Sierra Madre",
+      "yearOfRelease": "(1948)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Judgment at Nuremberg",
+      "yearOfRelease": "(1961)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "There Will Be Blood",
+      "yearOfRelease": "(2007)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "My Father and My Son",
+      "yearOfRelease": "(2005)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Three Billboards Outside Ebbing, Missouri",
+      "yearOfRelease": "(2017)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The Gold Rush",
+      "yearOfRelease": "(1925)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Chinatown",
+      "yearOfRelease": "(1974)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Dial M for Murder",
+      "yearOfRelease": "(1954)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "V for Vendetta",
+      "yearOfRelease": "(2005)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The Seventh Seal",
+      "yearOfRelease": "(1957)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "No Country for Old Men",
+      "yearOfRelease": "(2007)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Inside Out",
+      "yearOfRelease": "(2015)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Warrior",
+      "yearOfRelease": "(2011)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Shutter Island",
+      "yearOfRelease": "(2010)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Trainspotting",
+      "yearOfRelease": "(1996)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The Elephant Man",
+      "yearOfRelease": "(1980)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The Sixth Sense",
+      "yearOfRelease": "(1999)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The Thing",
+      "yearOfRelease": "(1982)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Gone with the Wind",
+      "yearOfRelease": "(1939)",
+      "movieRating": "8.1"
+    },
+    { "movieTitle": "Room", "yearOfRelease": "(2015)", "movieRating": "8.1" },
+    {
+      "movieTitle": "Jurassic Park",
+      "yearOfRelease": "(1993)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Wild Strawberries",
+      "yearOfRelease": "(1957)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Blade Runner",
+      "yearOfRelease": "(1982)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The Bridge on the River Kwai",
+      "yearOfRelease": "(1957)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Finding Nemo",
+      "yearOfRelease": "(2003)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Stalker",
+      "yearOfRelease": "(1979)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "On the Waterfront",
+      "yearOfRelease": "(1954)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The Third Man",
+      "yearOfRelease": "(1949)",
+      "movieRating": "8.1"
+    },
+    { "movieTitle": "Fargo", "yearOfRelease": "(1996)", "movieRating": "8.1" },
+    {
+      "movieTitle": "Kill Bill: Vol. 1",
+      "yearOfRelease": "(2003)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The Truman Show",
+      "yearOfRelease": "(1998)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Gran Torino",
+      "yearOfRelease": "(2008)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Tokyo Story",
+      "yearOfRelease": "(1953)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The Deer Hunter",
+      "yearOfRelease": "(1978)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Memories of Murder",
+      "yearOfRelease": "(2003)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Wild Tales",
+      "yearOfRelease": "(2014)",
+      "movieRating": "8.1"
+    },
+    { "movieTitle": "Klaus", "yearOfRelease": "(2019)", "movieRating": "8.1" },
+    {
+      "movieTitle": "Andhadhun",
+      "yearOfRelease": "(2018)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The Bandit",
+      "yearOfRelease": "(1996)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The Big Lebowski",
+      "yearOfRelease": "(1998)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Mary and Max",
+      "yearOfRelease": "(2009)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "In the Name of the Father",
+      "yearOfRelease": "(1993)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Gone Girl",
+      "yearOfRelease": "(2014)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Hacksaw Ridge",
+      "yearOfRelease": "(2016)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "To Be or Not to Be",
+      "yearOfRelease": "(1942)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The Grand Budapest Hotel",
+      "yearOfRelease": "(2014)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Ford v Ferrari",
+      "yearOfRelease": "(2019)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Persona",
+      "yearOfRelease": "(1966)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Before Sunrise",
+      "yearOfRelease": "(1995)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Catch Me If You Can",
+      "yearOfRelease": "(2002)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "How to Train Your Dragon",
+      "yearOfRelease": "(2010)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The General",
+      "yearOfRelease": "(1926)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Mr. Smith Goes to Washington",
+      "yearOfRelease": "(1939)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Sherlock Jr.",
+      "yearOfRelease": "(1924)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Prisoners",
+      "yearOfRelease": "(2013)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "12 Years a Slave",
+      "yearOfRelease": "(2013)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Cool Hand Luke",
+      "yearOfRelease": "(1967)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Mad Max: Fury Road",
+      "yearOfRelease": "(2015)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Barry Lyndon",
+      "yearOfRelease": "(1975)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Network",
+      "yearOfRelease": "(1976)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "The Wages of Fear",
+      "yearOfRelease": "(1953)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Stand by Me",
+      "yearOfRelease": "(1986)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Into the Wild",
+      "yearOfRelease": "(2007)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Million Dollar Baby",
+      "yearOfRelease": "(2004)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Monty Python's Life of Brian",
+      "yearOfRelease": "(1979)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Hachi: A Dog's Tale",
+      "yearOfRelease": "(2009)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Platoon",
+      "yearOfRelease": "(1986)",
+      "movieRating": "8.1"
+    },
+    {
+      "movieTitle": "Ben-Hur",
+      "yearOfRelease": "(1959)",
+      "movieRating": "8.1"
+    },
+    { "movieTitle": "Rush", "yearOfRelease": "(2013)", "movieRating": "8.1" },
+    {
+      "movieTitle": "The Passion of Joan of Arc",
+      "yearOfRelease": "(1928)",
+      "movieRating": "8.1"
+    },
+    { "movieTitle": "Logan", "yearOfRelease": "(2017)", "movieRating": "8.0" },
+    {
+      "movieTitle": "Dead Poets Society",
+      "yearOfRelease": "(1989)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Harry Potter and the Deathly Hallows: Part 2",
+      "yearOfRelease": "(2011)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Andrei Rublev",
+      "yearOfRelease": "(1966)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "The 400 Blows",
+      "yearOfRelease": "(1959)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Hotel Rwanda",
+      "yearOfRelease": "(2004)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Amores Perros",
+      "yearOfRelease": "(2000)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Spotlight",
+      "yearOfRelease": "(2015)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Rang De Basanti",
+      "yearOfRelease": "(2006)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Nausicaä of the Valley of the Wind",
+      "yearOfRelease": "(1984)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "The Handmaiden",
+      "yearOfRelease": "(2016)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Portrait of a Lady on Fire",
+      "yearOfRelease": "(2019)",
+      "movieRating": "8.0"
+    },
+    { "movieTitle": "Rocky", "yearOfRelease": "(1976)", "movieRating": "8.0" },
+    {
+      "movieTitle": "Rebecca",
+      "yearOfRelease": "(1940)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Monsters, Inc.",
+      "yearOfRelease": "(2001)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "La Haine",
+      "yearOfRelease": "(1995)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "It Happened One Night",
+      "yearOfRelease": "(1934)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Gangs of Wasseypur",
+      "yearOfRelease": "(2012)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "In the Mood for Love",
+      "yearOfRelease": "(2000)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Before Sunset",
+      "yearOfRelease": "(2004)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "The Princess Bride",
+      "yearOfRelease": "(1987)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "The Help",
+      "yearOfRelease": "(2011)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Paris, Texas",
+      "yearOfRelease": "(1984)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "The Invisible Guest",
+      "yearOfRelease": "(2016)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Drishyam",
+      "yearOfRelease": "(2015)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "The Terminator",
+      "yearOfRelease": "(1984)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Ace in the Hole",
+      "yearOfRelease": "(1951)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Vinterdvala",
+      "yearOfRelease": "(2014)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Lagaan: Once Upon a Time in India",
+      "yearOfRelease": "(2001)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Butch Cassidy and the Sundance Kid",
+      "yearOfRelease": "(1969)",
+      "movieRating": "8.0"
+    },
+    {
+      "movieTitle": "Aladdin",
+      "yearOfRelease": "(1992)",
+      "movieRating": "8.0"
+    },
+    { "movieTitle": "Akira", "yearOfRelease": "(1988)", "movieRating": "8.0" },
+    { "movieTitle": "PK", "yearOfRelease": "(2014)", "movieRating": "8.0" },
+    {
+      "movieTitle": "Throne of Blood",
+      "yearOfRelease": "(1957)",
+      "movieRating": "8.0"
+    }
+  ]
+}

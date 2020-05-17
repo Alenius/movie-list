@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+    "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-color: #00243f;
+  color: whitesmoke;
+}
+
+/*     dark: '#00243f',
+    lessDark: '#264b77',
+    accent: '#b67929',
+    gray: '#a3acb1',
+    matte: '#3c5b74' */
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
