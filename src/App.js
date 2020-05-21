@@ -1,9 +1,9 @@
-import React, { useState, useEffect, FormEvent, ChangeEvent } from "react";
+import React, { useState, useEffect } from "react";
 
 import imdbTopList from "./assets/imdb_top.json";
-import "./App.css";
-import { Button } from "./components/Button";
+import "./App.less";
 import { useFetch } from "./hooks/useFetch";
+import { Spin, Button } from "antd";
 
 const BACKEND_ENDPOINT_BASE =
   "https://aa-movie-list-backend.herokuapp.com/movie?title=";
@@ -14,7 +14,7 @@ export const getRandomInt = (maxValue) =>
 const MovieRandomizer = () => {
   const [movie, setMovie] = useState(encodeURIComponent("Pulp Fiction"));
   const [movieArray, setMovieArray] = useState([]);
-  const [randomIndex, setRandomIndex] = useState(0);
+  const [index, setIndex] = useState(0);
   const {
     response,
     error: fetchError,
@@ -36,14 +36,13 @@ const MovieRandomizer = () => {
 
   useEffect(() => {
     if (movieArray.length) {
-      setMovie(movieArray[randomIndex]);
-      setLoading(false);
+      setMovie(movieArray[index]);
     }
-  }, [movieArray, randomIndex]);
+  }, [movieArray, index]);
 
   const randomizeNewNumber = () => {
-    setRandomIndex(getRandomInt(movieArray.length));
     setLoading(true);
+    setIndex(getRandomInt(movieArray.length));
   };
 
   return (
@@ -51,24 +50,21 @@ const MovieRandomizer = () => {
       <h1 className="title">MovieRandomizer</h1>
       <div className="container">
         <div className="img-container">
-          {loading ? (
-            <p>Loading poster...</p>
-          ) : (
-            <img
-              src={movie?.posterLink}
-              alt="movie-poster"
-              onLoad={() => setLoading(false)}
-              onError={() => setLoading(true)}
-            />
-          )}
+          {loading && <Spin size="large" />}
+          <img
+            className="poster-image"
+            style={{ display: loading && "none" }}
+            src={movie?.posterLink}
+            alt="movie-poster"
+            onLoad={() => setLoading(false)}
+            onError={() => setLoading(true)}
+          />
         </div>
         <h2 style={{ textAlign: "center" }}>{movie?.movieTitle}</h2>
         <div className="rank-rate-div">
           <p className="rank-rate-p">
             IMDB-ranking:{" "}
-            <span style={{ fontWeight: "bold" }}>
-              {movie && randomIndex + 1}
-            </span>
+            <span style={{ fontWeight: "bold" }}>{movie && index + 1}</span>
           </p>
           <p className="rank-rate-p">
             IMDB-rating:{" "}
@@ -77,7 +73,13 @@ const MovieRandomizer = () => {
         </div>
       </div>
       <div className="container">
-        <Button title="Randomize new movie" onClick={randomizeNewNumber} />
+        <Button
+          type="primary"
+          size="large"
+          onClick={() => randomizeNewNumber()}
+        >
+          Randomize new movie
+        </Button>
       </div>
     </div>
   );
